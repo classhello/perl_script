@@ -2,6 +2,7 @@
 
 use warnings;
 use utf8;
+use strict;
 
 $line = <STDIN>;
 if ($line eq "\n"){
